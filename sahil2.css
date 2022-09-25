@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid yellow;
+}
+
+.row{
+    border: 2px solid rgb(255, 68, 0);
+}
+.col{
+    border: 2px solid rgb(0, 132, 255);
+    border-color: green;
+    background-color: blueviolet;
+}
